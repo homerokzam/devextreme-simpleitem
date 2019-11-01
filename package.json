@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "devextreme": "^19.2.3",
+    "devextreme-react": "^19.2.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "reactn": "^2.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
